@@ -11,4 +11,4 @@ for information on how to set up your site.
 
 [title: Home]: /
 
-template_url: https://github.com/telegr-am/template-green.git 
+
