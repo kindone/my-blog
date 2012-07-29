@@ -1,10 +1,14 @@
 ## About 
 
-I blog here.  This is a page that tells people about me.
+Discuss development ideas and techniques.
+Regular subjects are:
+* Scala 
+* JVM 
+* Play!
 
 ## Contact Me
 
-You can put some contact information here
+@kindone at Twitter (protected)
 
 [title: About]: /
 [order: 20]: /
