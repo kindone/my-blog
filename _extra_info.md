@@ -2,7 +2,6 @@
 blog_root: /blog_posts
 site_title: Purely Technical!!!
 template_url: https://github.com/telegr-am/template-green.git 
-has_blog: true
 ---
 
 This file contains _Extra Info_ about your site.  You can
