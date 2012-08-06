@@ -2,9 +2,10 @@
 
 Discuss development ideas and techniques.
 Regular subjects are:
-- Scala 
-- JVM 
-- Play!
+
+-  Scala 
+-  JVM 
+-  Play!
 
 ## Contact Me
 
